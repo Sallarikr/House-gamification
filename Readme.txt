@@ -1,0 +1,1 @@
+For this game I have gamified a premade 3D model of a house. I have added opening doors, a functional fireplace and lighting, along with premade furniture.
